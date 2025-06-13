@@ -1,0 +1,4 @@
+Cinza: #e3dfde
+Rosa: #dcc5bf
+Marrom: #c6a999
+Cinza escuro: #828d8f
